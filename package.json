@@ -1,0 +1,37 @@
+{
+  "name": "js-sample",
+  "version": "0.2.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/node-js-sample.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Mark Pundsack",
+  "contributors": [
+    {
+      "name": "Zeke Sikelianos",
+      "email": "zeke@sikelianos.com",
+      "url": "http://zeke.sikelianos.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heroku/node-js-sample/issues"
+  },
+  "homepage": "https://github.com/heroku/node-js-sample#readme"
+}
